@@ -12,6 +12,9 @@ The user flow for this project is that the user either creates an account or log
 ## Features
 
 # Screenshots
+![Home Page](assets/Screen-shot-home.png)
+
+
 
 ## Tech-stack
 - Frontend: React
