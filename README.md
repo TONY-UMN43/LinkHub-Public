@@ -31,8 +31,9 @@ The user flow for this project is that the user either creates an account or log
 
 
 ## How to Run (Only for Recruiters)
-- Contact the email listed in the "Contact Me" section down below for full repo
-- git clone git@github.com_NAME_
+
+Because the backend contains sensitive business logic, the full repository is private. Recruiters can request access by emailing me (contact info below)
+- git clone git@github.com:NAME/LinkHub.git
 - cd LinkHub
 - cd Backend
 - pip install -r requirements.txt
