@@ -41,20 +41,39 @@ The responsive CSS design was assisted by Google Gemini, which provided layout s
 ## How to Run (Only for Recruiters)
 
 Because the backend contains sensitive business logic, the full repository is private. Recruiters can request access by emailing me (contact info below)
-- git clone git@github.com:NAME/LinkHub.git
-- cd LinkHub
+
+Get Files
+```Terminal
+git clone git@github.com:NAME/LinkHub.git
+```
+Install FastAPI Dependencies
+```Terminal
+cd LinkHub
 - cd Backend
 - pip install -r requirements.txt
+```
+Install React Dependencies
+```Terminal
 - cd ../frontend
 - npm install
+```
+Set Environment Variable
 - Create .env file and create these variables
-  - DATABASE = "my_database_connection"
-  - REACT_APP_API_BASE = http://localhost:8000
-- cd Backend
-- run "python3 -m venv venv"
-- run "source ./venv/bin/activate"
-- "uvicorn main:app --reload"
-- Run the application from there
+  
+  - `DATABASE = "my_database_connection"`
+  - `REACT_APP_API_BASE = http://localhost:8000`
+Start the Frontend Client
+```Terminal
+npm start
+```
+Start the Backend Server
+```Terminal
+cd Backend
+python3 -m venv venv
+source ./venv/bin/activate"
+uvicorn main:app --reload
+```
+Run the application from there
 
 ## Project Impact
 LinkHub showcases my ability to design, develop, and deploy a full-stack production-ready product for users.
