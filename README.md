@@ -56,7 +56,7 @@ The goal of designing this project was to gain practical experience with softwar
 ![Home Page](assets/Screen-shot-home.png)
 
 
-##Future Improvements
+## Future Improvements
 - Implement a Redis cache system to decrease latency and load times
 - Add role-specific privileges for employees added to the company
   - HR & Recruiters can create job postings and review applications
