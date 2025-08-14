@@ -31,7 +31,7 @@ The user flow for this project is that the user either creates an account or log
 
 
 ## How to Run (Only for Recruiters)
-- Send me an email at tony.akinyemi5@gmail.com to get the full repo
+- Contact the email listed in the "Contact Me" section down below for full repo
 - git clone git@github.com_NAME_
 - cd LinkHub
 - cd Backend
@@ -69,6 +69,8 @@ The goal of designing this project was to gain practical experience with softwar
 - Add ability for users to upload profile pictures
 
 
-
+## Contact Me
+- Email: tony.akinyemi5@gmail.com
+- LinkedIn: [Tony Akinyemi](https://www.linkedin.com/in/tony-akinyemi/)
 
 
