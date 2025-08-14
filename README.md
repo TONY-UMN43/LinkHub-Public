@@ -10,7 +10,15 @@ Do not copy, modify, or redistribute any part of this code without explicit perm
 ## Description
 LinkHub is a professional networking project that was inspired by LinkedIn.
 
-The user flow for this project is that the user either creates an account or logins to an existing one, they see post on their user feed and they also have the ability to look all the jobs posted recently to last on their user feed. Google Gemini was used for the CSS design of this application to create a user-friendly experience where the UI of this application is able to run on tablets, phones, laptops, and desktops. In addition it ensures that the UI is responsive on different screen sizes. This design choice was made because it was impractical to test the UI of this project across hundreds of different screens and many different browsers.
+1. Create an account or log in with an existing one.
+
+2. View user posts on your user feed.
+
+3. Search recently posted jobs and company profiles.
+
+4. Connect with other users by using the friend request system.
+
+The responsive CSS design was assisted by Google Gemini, which provided layout suggestions and styling guidance. The CSS was then optimized for the final design to ensure that it worked seamlessly across mobile, tablet, laptop, and desktop devices.
 
 ## Live Demo
 - [Live Site](https://delicate-starburst-7bb860.netlify.app/)
