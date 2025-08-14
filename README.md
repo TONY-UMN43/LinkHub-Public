@@ -49,13 +49,13 @@ git clone git@github.com:NAME/LinkHub.git
 Install FastAPI Dependencies
 ```Terminal
 cd LinkHub
-- cd Backend
-- pip install -r requirements.txt
+cd Backend
+pip install -r requirements.txt
 ```
 Install React Dependencies
 ```Terminal
-- cd ../frontend
-- npm install
+cd ../frontend
+npm install
 ```
 Set Environment Variable
 - Create .env file and create these variables
