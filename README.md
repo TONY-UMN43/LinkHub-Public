@@ -1,5 +1,10 @@
 # LinkHub
 
+# Tech-stack
+React
+FasAPI
+PostgreSQL
+
 ## License
 This project is for **viewing purposes only**.  
 Do not copy, modify, or redistribute any part of this code without explicit permission.  
