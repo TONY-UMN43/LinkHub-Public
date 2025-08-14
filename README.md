@@ -10,7 +10,7 @@ Do not copy, modify, or redistribute any part of this code without explicit perm
 ## Description
 LinkHub is a professional networking project that was inspired by LinkedIn.
 
-The user flow for this project is that the user either creates an account or logins to an existing one, they see post on their user feed and they also have the ability to look all the jobs posted recently to last on their user feed. Google Gemini was used for the CSS design of this application to create a user-friendly experience where the UI of this application is able to run on tablets, phones, laptops, and desktops. This design choice was made because it was impractical to test the UI of this project across hundreds of different screens and many different browsers.
+The user flow for this project is that the user either creates an account or logins to an existing one, they see post on their user feed and they also have the ability to look all the jobs posted recently to last on their user feed. Google Gemini was used for the CSS design of this application to create a user-friendly experience where the UI of this application is able to run on tablets, phones, laptops, and desktops. In addition it ensures that the UI is responsive on different screen sizes. This design choice was made because it was impractical to test the UI of this project across hundreds of different screens and many different browsers.
 
 ## Live Demo
 - [Live Site](https://delicate-starburst-7bb860.netlify.app/)
@@ -26,7 +26,7 @@ The user flow for this project is that the user either creates an account or log
   
 ## Tech-stack
 - Frontend: React
-- Backend: FasAPI
+- Backend: FastAPI
 - Database: PostgreSQL
 
 
@@ -47,8 +47,14 @@ The user flow for this project is that the user either creates an account or log
 - "uvicorn main:app --reload"
 - Run the application from there
 
-## Project Goal
-The goal of designing this project was to gain practical experience with software engineering and to see how real-world social media applications store data and handle features such as user authentication and user feeds. React and PostgreSQL, in particular, are used in many real-world applications such as Instagram, Facebook, YouTube, and more. By using these real-world tools to build this project, it was a very valuable learning experience of how real-world applications work behind the scenes.  
+## Project Impact
+LinkHub showcases my ability to design, develop, and deploy a full-stack production-ready product for users.
+
+It shows skills in every area of full-stack - building a secure backend with FastAPI, creating a PostgreSQL database to store persistent data, and developing an optimized React frontend with the help of Google Gemini.
+
+Used real-life features such as JWT authentication, company job postings, and user feeds that fetch data from the database.
+
+This project reflects the process of turning high-level System Design ideas into a polished program. It also reflects being able to use Google Gemini when there are technical limitations.
 
 # Screenshots
 | User Profile | User Feed |
@@ -61,16 +67,16 @@ The goal of designing this project was to gain practical experience with softwar
 
 
 ## Future Improvements
-- Implement a Redis cache system to decrease latency and load times
-- Add role-specific privileges for employees added to the company
+- **Performance**: Implement a Redis cache system to decrease latency and load times
+- **Roles**: Add role-specific privileges for employees added to the company
   - HR & Recruiters can create job postings and review applications
   - The owner can edit the company profile
   - General members are listed under company employees, but don't have any other privileges
-- Add Job Application process
+- **Job Applications**
   - Allow users to fill out LinkedIn Job application on website
   - Add a way for users to view their job applications
   - Add a pipeline for accepted job applicants
-- Add ability for users to upload profile pictures
+- **Images**: Use AWS to allow users to upload profile pictures
 
 
 ## Contact Me
