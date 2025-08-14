@@ -51,9 +51,13 @@ The user flow for this project is that the user either creates an account or log
 The goal of designing this project was to gain practical experience with software engineering and to see how real-world social media applications store data and handle features such as user authentication and user feeds. React and PostgreSQL, in particular, are used in many real-world applications such as Instagram, Facebook, YouTube, and more. By using these real-world tools to build this project, it was a very valuable learning experience of how real-world applications work behind the scenes.  
 
 # Screenshots
-![User-Profile Page](assets/Screen-shot-user-profile.png)
-![User-Feed Page](assets/Screen-shot-user-feed.png)
-![Home Page](assets/Screen-shot-home.png)
+| User Profile | User Feed |
+|--------------|-----------|
+| ![User-Profile Page](assets/Screen-shot-user-profile.png) | ![User-Feed Page](assets/Screen-shot-user-feed.png) |
+
+| Home Page |
+|-----------|--------------------------|
+| ![Home Page](assets/Screen-shot-home.png) | ![Mobile View](assets/mobile.png) |
 
 
 ## Future Improvements
