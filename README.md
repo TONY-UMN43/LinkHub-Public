@@ -1,9 +1,9 @@
 # LinkHub
 
 # Tech-stack
-React
-FasAPI
-PostgreSQL
+- React
+- FasAPI
+- PostgreSQL
 
 ## License
 This project is for **viewing purposes only**.  
