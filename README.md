@@ -7,6 +7,8 @@ Do not copy, modify, or redistribute any part of this code without explicit perm
 
 
 ## Description
+LinkHub is a professional networking project that was inspired by LinkedIn.
+
 The user flow for this project is that the user either creates an account or logins to an existing one, they see post on their user feed and they also have the ability to look all the jobs posted recently to last on their user feed. Google Gemini was used for the CSS design of this application to create a user-friendly experience where the UI of this application is able to run on tablets, phones, laptops, and desktops. This design choice was made because it was impractical to test the UI of this project across hundreds of different screens and many different browsers.
 
 ## Features
