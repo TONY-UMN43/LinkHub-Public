@@ -56,7 +56,7 @@ The goal of designing this project was to gain practical experience with softwar
 | ![User-Profile Page](assets/Screen-shot-user-profile.png) | ![User-Feed Page](assets/Screen-shot-user-feed.png) |
 
 | Home Page |
-|-----------|--------------------------|
+|-----------|
 | ![Home Page](assets/Screen-shot-home.png) | ![Mobile View](assets/mobile.png) |
 
 
