@@ -12,8 +12,8 @@ The user flow for this project is that the user either creates an account or log
 ## Features
 
 # Screenshots
-![User-Profile Page](Screen-shot-user-profile.png)
-![User-Feed Page](Screen-shot-user-feed.png)
+![User-Profile Page](assets/Screen-shot-user-profile.png)
+![User-Feed Page](assets/Screen-shot-user-feed.png)
 ![Home Page](assets/Screen-shot-home.png)
 
 
