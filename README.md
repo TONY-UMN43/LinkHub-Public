@@ -6,7 +6,7 @@ Do not copy, modify, or redistribute any part of this code without explicit perm
 © 2025 Tony Akinyemi. All rights reserved.
 
 ## Live Demo
-Experience FireChat with a demo account:
+Experience LinkHub with a demo account:
 
 [Live Site](https://messaging-demo-umber.vercel.app/)
 
